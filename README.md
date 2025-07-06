@@ -63,9 +63,8 @@ C = i/f x Ripple => C = 0,115/(120 x 2,431) => Capacitância mínima para o circ
 ![image](https://github.com/user-attachments/assets/42262ae2-c2b7-4f5b-a95d-58f3422a1c0e)
 
 
-
-
 ## Vídeo de explicação YT
+[Link YT](https://www.youtube.com/watch?v=4OP18t41a2M)
 [Link YT](https://youtube.com/shorts/zovsuaQ34ok?feature=share)
 
 
