@@ -62,11 +62,23 @@ C = i/f x Ripple => C = 0,115/(120 x 2,431) => Capacitância mínima para o circ
 ## PCB da Fonte
 ![image](https://github.com/user-attachments/assets/42262ae2-c2b7-4f5b-a95d-58f3422a1c0e)
 
+## Contas
 
+Vfonte = 127 x raiz(2) = 179,6V => Tensão máxima =~ 180V
+Razão do transformador = 7 => 180/7 = 25,71V (Tensão de Pico 1)
+Vdiodo = 0,7V => Tensão de Pico 2 = (Tensão de Pico 1) - 0,7 x 2 = 24,31V
 
+Buscando um Ripple de 10%:
+Ripple = Vpico x 0,1 = 2,431 V
 
-## Vídeo de explicação YT
+Capacitor
+f = 2 x 60Hz = 120Hz
+C = i/f x Ripple => C = 0,115/(120 x 2,431) => Capacitância mínima para o circuito é de 394,21 uF
+
+## Vídeo de demostração YT
 [Link YT](https://youtube.com/shorts/zovsuaQ34ok?feature=share)
+
+## Vídeo de explicação youtube YT
 
 
 
