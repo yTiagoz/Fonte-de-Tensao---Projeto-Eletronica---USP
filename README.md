@@ -42,6 +42,18 @@ Quantidade | Componentes | Custo R$
 
 ## Cálculo do capacitor
 
+Vfonte = 127 x raiz(2) = 179,6V => Tensão máxima =~ 180V
+Razão do transformador = 7 => 180/7 = 25,71V (Tensão de Pico 1)
+Vdiodo = 0,7V => Tensão de Pico 2 = (Tensão de Pico 1) - 0,7 x 2 = 24,31V
+
+Buscando um Ripple de 10%:
+Ripple = Vpico x 0,1 = 2,431 V
+
+Capacitor
+f = 2 x 60Hz = 120Hz
+C = i/f x Ripple => C = 0,115/(120 x 2,431) => Capacitância mínima para o circuito é de 394,21 uF
+
+
 
 ## Link do circuito no Falstad
 [Link Falstad](https://tinyurl.com/29j4x7qe)
