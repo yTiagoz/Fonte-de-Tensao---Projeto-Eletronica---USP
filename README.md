@@ -37,7 +37,8 @@ Quantidade | Componentes | Custo R$
 * Transistor: Amplifica a corrente pequena que chega à sua base para uma corrente máxima de 100mA, atuando como uma parte final do circuito.
 
 ## Imagem do circuito
-![alt text]({99376BE1-2040-4A5A-A184-1549E3743594}.png)
+![image](https://github.com/user-attachments/assets/6c96fd4a-c17d-491f-af33-f593f55da168)
+
 
 ## Cálculo do capacitor
 
@@ -47,7 +48,8 @@ Quantidade | Componentes | Custo R$
 
 
 ## PCB da Fonte
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/42262ae2-c2b7-4f5b-a95d-58f3422a1c0e)
+
 
 
 
